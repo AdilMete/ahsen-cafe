@@ -1,0 +1,12 @@
+# İşletim Sistemi Dosyaları
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editör Ayarları
+.vscode/
+.idea/
+
+# Geçici Log Dosyaları
+*.log
+npm-debug.log*
