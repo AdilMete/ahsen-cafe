@@ -6,7 +6,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const emailError = document.getElementById('email-error');
     const mesajError = document.getElementById('mesaj-error');
 
-    // Canlı hata temizleme (Yazmaya başladığında)
     const clear = (input, error) => {
         error.classList.add('hidden');
         input.style.borderColor = '#eee';
